@@ -4,7 +4,7 @@ A modern, responsive **Crypto Tracker** app built with **React**, **Redux Toolki
 
 ## 🚀 Live Demo
 
-🔗 [View Project on Netlify](https://cryptotrackergs.netlify.app/)
+🔗 [View Project on Netlify](https://cryptotrack-er.netlify.app/)
 
 ## 📸 Project View
 
